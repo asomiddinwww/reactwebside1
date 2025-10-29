@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from '../assets/svg/Logo.svg'
 
-const header = () => {
+const Headerr = () => {
   return (
     <div className="container">
         <div className='header'>
@@ -26,4 +26,4 @@ const header = () => {
   )
 }
 
-export default header
+export default Headerr

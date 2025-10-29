@@ -1,5 +1,4 @@
 import React from 'react'
-import Header from './components/header'
 import Showcase from './Components/Showcase'
 import Page from './Components/Page1'
 import Plans from './Components/Plans'
@@ -7,11 +6,12 @@ import Firm from './Components/firm'
 import Hub from './Components/Hub'
 import Ready from './Components/Ready'
 import Footer from './Components/footer'
+import Headerr from './Components/Headerr'
 
 const App = () => {
   return (
     <div>
-      <Header/>
+      <Headerr/>
       <Showcase/>
       <Page/>
       <Plans/>
