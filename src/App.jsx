@@ -5,7 +5,7 @@ import Plans from './Components/Plans'
 import Firm from './Components/firm'
 import Hub from './Components/Hub'
 import Ready from './Components/Ready'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 import Headerr from './Components/Headerr'
 
 const App = () => {
